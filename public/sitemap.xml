@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Page Principale / Accueil -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Section 1 : Accueil / Hero -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#hero</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Section 2 : Public Attendu (Pour Qui Est Cette Masterclass) -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#public-attendu</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Section 3 : Obstacles & Problèmes À Résoudre -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#obstacles</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Section 4 : Feuille de Route / Plan Chrono 30 Jours -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#roadmap</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Section 5 : Programme Complet des 5 Modules -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#programme</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Section 6 : Intervenant & Mentor (Prophète Jude-Christ Exaucé) -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#intervenants</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Section 7 : Tarifs & Billetterie Pass 2 000 FCFA -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#tickets</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.98</priority>
+  </url>
+
+  <!-- Section 8 : Foire Aux Questions (FAQ) -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#faq</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Section 9 : Urgence & Compte à Rebours -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#urgence</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Section 10 : Support Direct WhatsApp & Facebook -->
+  <url>
+    <loc>https://judechrist-masterclass.vercel.app/#contact</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jude Christ - L\u0027Architecte Bleu Masterclass",
+  "description": "Landing page officielle pour la Masterclass en présentiel de L\u0027Architecte Bleu par Jude Christ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
